@@ -41,7 +41,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(33.808056, -118.110494), // New York
+        center: new google.maps.LatLng(33.808056, -118.110494), // Millikan High School
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
